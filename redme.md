@@ -20,7 +20,7 @@ To interact with the Super Mario Game Token, you can deploy the contract on the 
 ### Installation
 
    ```bash
-   git clone [repository_url]
+   git clone https://github.com/akkianand/avaxmod4.git)https://github.com/akkianand/avaxmod4.git
    cd SuperMarioGame
   npm install
 ```
